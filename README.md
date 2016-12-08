@@ -1,5 +1,5 @@
 # ios-form-twinkle
-iso表单获取焦点时闪烁问题
+iso表单获取焦点时闪一下问题
 ```css
 .ly_item input {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);/*关键代码*/
